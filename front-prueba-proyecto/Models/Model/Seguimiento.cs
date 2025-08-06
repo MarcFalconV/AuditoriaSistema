@@ -1,7 +1,7 @@
 public class Seguimiento
 {
     public int IdSeguimiento { get; set; }
-    public int IdRespuesta { get; set; }
+    public Item Item { get; set; }
     public string Estado { get; set; }
     public string Descripcion { get; set; }
     public string Supervisor { get; set; }

@@ -1,12 +1,51 @@
-using System;
-using System.Collections.Generic;
-
 public class RepositorioDatos
 {
-    private static readonly Lazy<RepositorioDatos> instancia = new Lazy<RepositorioDatos>(() => new RepositorioDatos());
+    private static readonly Lazy<RepositorioDatos> instancia = new(() => new RepositorioDatos());
     public static RepositorioDatos Instancia => instancia.Value;
 
-    private RepositorioDatos() { }
+    private RepositorioDatos()
+    {
+        // Relaciones para UbicacionInstitucional
+        foreach (var ui in ListaUbicacionInstitucional)
+        {
+            ui.Ubicacion = ListaUbicacions.FirstOrDefault(u => u.IdUbicacion == ui.Ubicacion.IdUbicacion);
+            ui.Facultad = ListaFacultads.FirstOrDefault(f => f.IdFacultad == ui.Facultad.IdFacultad);
+            ui.Departamento = ListaDepartamentos.FirstOrDefault(d => d.IdDepartamento == ui.Departamento.IdDepartamento);
+        }
+
+        // Relaciones para Auditoria
+        foreach (var aud in ListaAuditorias)
+        {
+            aud.Ubicacion = ListaUbicacionInstitucional.FirstOrDefault(ui => ui.IdUbicacionInstitucional == aud.Ubicacion.IdUbicacion)?.Ubicacion;
+            aud.Encuestas = ListaEncuestas.Where(e => e.IdAuditoria == aud.IdAuditoria).ToList();
+        }
+
+        // Relaciones para Persona
+        foreach (var p in ListaPersonas)
+        {
+            p.Rol = ListaRols.FirstOrDefault(r => r.IdRol == p.Rol.IdRol);
+        }
+
+        // Relacionar Items a Preguntas (n a n)
+        foreach (var pregunta in ListaPreguntas)
+        {
+            Console.WriteLine($"Pregunta: {pregunta.Texto}");
+            foreach (var item in pregunta.Items)
+            {
+                Console.WriteLine($"  - Item: {item.Descripcion}");
+            }
+        }
+
+
+
+        // Relacionar Items en Seguimientos
+        foreach (var seg in ListaSeguimientos)
+        {
+            seg.Item = ListaItems.FirstOrDefault(i => i.IdItem == seg.Item.IdItem);
+        }
+    }
+
+    // Colecciones de objetos, inicializadas con IDs para enlazar después
 
     public List<Ubicacion> ListaUbicacions { get; } = new List<Ubicacion>
     {
@@ -42,118 +81,149 @@ public class RepositorioDatos
 
     public List<Persona> ListaPersonas { get; } = new List<Persona>
     {
-        new Persona { IdPersona = 1, Nombre = "Ana Pérez", Correo = "ana.perez@ejemplo.com", IdRol = 1 },
-        new Persona { IdPersona = 2, Nombre = "Luis Gómez", Correo = "luis.gomez@ejemplo.com", IdRol = 2 },
-        new Persona { IdPersona = 3, Nombre = "Sofía Díaz", Correo = "sofia.diaz@ejemplo.com", IdRol = 3 },
-        new Persona { IdPersona = 4, Nombre = "Carlos Ruiz", Correo = "carlos.ruiz@ejemplo.com", IdRol = 4 },
+        new Persona { IdPersona = 1, Nombre = "Ana Pérez", Correo = "ana.perez@ejemplo.com", Rol = new Rol { IdRol = 1 } },
+        new Persona { IdPersona = 2, Nombre = "Luis Gómez", Correo = "luis.gomez@ejemplo.com", Rol = new Rol { IdRol = 2 } },
+        new Persona { IdPersona = 3, Nombre = "Sofía Díaz", Correo = "sofia.diaz@ejemplo.com", Rol = new Rol { IdRol = 3 } },
+        new Persona { IdPersona = 4, Nombre = "Carlos Ruiz", Correo = "carlos.ruiz@ejemplo.com", Rol = new Rol { IdRol = 4 } },
     };
 
-    public List<Seccion> ListaSeccions { get; } = new List<Seccion>
+    public List<Seccion> ListaSecciones { get; } = new List<Seccion>
     {
         new Seccion { IdSeccion = 1, Nombre = "Infraestructura" },
-        new Seccion { IdSeccion = 2, Nombre = "Seguridad" },
-        new Seccion { IdSeccion = 3, Nombre = "Limpieza" },
-        new Seccion { IdSeccion = 4, Nombre = "Equipamiento" },
-    };
-
-    public List<Pregunta> ListaPreguntas { get; } = new List<Pregunta>
-    {
-        new Pregunta { IdPregunta = 1, Texto = "¿Las instalaciones están limpias?", IdSeccion = 3 },
-        new Pregunta { IdPregunta = 2, Texto = "¿Se cuenta con salidas de emergencia?", IdSeccion = 2 },
-        new Pregunta { IdPregunta = 3, Texto = "¿Los equipos están operativos?", IdSeccion = 4 },
-        new Pregunta { IdPregunta = 4, Texto = "¿El edificio presenta daños estructurales?", IdSeccion = 1 },
+        new Seccion { IdSeccion = 2, Nombre = "Seguridad Informática" },
+        new Seccion { IdSeccion = 3, Nombre = "Uso de Sistemas" },
+        new Seccion { IdSeccion = 4, Nombre = "Concientización" },
     };
 
     public List<Item> ListaItems { get; } = new List<Item>
     {
-        new Item { IdItem = 1, Descripcion = "Pisos limpios", IdPregunta = 1 },
-        new Item { IdItem = 2, Descripcion = "Extintores disponibles", IdPregunta = 2 },
-        new Item { IdItem = 3, Descripcion = "Computadoras funcionales", IdPregunta = 3 },
-        new Item { IdItem = 4, Descripcion = "Paredes sin grietas", IdPregunta = 4 },
+        new Item { IdItem = 1, Descripcion = "Contraseñas con más de 8 caracteres" },
+        new Item { IdItem = 2, Descripcion = "Autenticación de dos factores activada" },
+        new Item { IdItem = 3, Descripcion = "Antivirus actualizado en todos los equipos" },
+        new Item { IdItem = 4, Descripcion = "Capacitación anual en seguridad informática" },
+        new Item { IdItem = 5, Descripcion = "Políticas claras sobre uso de dispositivos" },
+    };
+
+    public List<Pregunta> ListaPreguntas { get; } = new List<Pregunta>
+{
+    new Pregunta
+    {
+        IdPregunta = 1,
+        Texto = "¿Las instalaciones están limpias?",
+        Seccion = new Seccion { IdSeccion = 3, Nombre = "Limpieza" },
+        Items = new List<Item>
+        {
+            new Item { IdItem = 1, Descripcion = "Pisos limpios" },
+            new Item { IdItem = 2, Descripcion = "Ventanas limpias" }
+        }
+    },
+    new Pregunta
+    {
+        IdPregunta = 2,
+        Texto = "¿Se cuenta con salidas de emergencia?",
+        Seccion = new Seccion { IdSeccion = 2, Nombre = "Seguridad" },
+        Items = new List<Item>
+        {
+            new Item { IdItem = 3, Descripcion = "Extintores disponibles" },
+            new Item { IdItem = 4, Descripcion = "Señalización visible" }
+        }
+    },
+    new Pregunta
+    {
+        IdPregunta = 3,
+        Texto = "¿Se cumplen las normas de seguridad?",
+        Seccion = new Seccion { IdSeccion = 2, Nombre = "Seguridad" },
+        Items = new List<Item>
+        {
+            new Item { IdItem = 3, Descripcion = "Extintores disponibles" },
+            new Item { IdItem = 4, Descripcion = "Señalización visible" }
+        }
+    }
+};
+
+
+    public List<UbicacionInstitucional> ListaUbicacionInstitucional { get; } = new List<UbicacionInstitucional>
+    {
+        new UbicacionInstitucional
+        {
+            IdUbicacionInstitucional = 1,
+            Ubicacion = new Ubicacion { IdUbicacion = 1 },
+            Facultad = new Facultad { IdFacultad = 1 },
+            Departamento = new Departamento { IdDepartamento = 1 }
+        },
+        new UbicacionInstitucional
+        {
+            IdUbicacionInstitucional = 2,
+            Ubicacion = new Ubicacion { IdUbicacion = 2 },
+            Facultad = new Facultad { IdFacultad = 2 },
+            Departamento = new Departamento { IdDepartamento = 2 }
+        },
+        new UbicacionInstitucional
+        {
+            IdUbicacionInstitucional = 3,
+            Ubicacion = new Ubicacion { IdUbicacion = 3 },
+            Facultad = new Facultad { IdFacultad = 3 },
+            Departamento = new Departamento { IdDepartamento = 3 }
+        },
+        new UbicacionInstitucional
+        {
+            IdUbicacionInstitucional = 4,
+            Ubicacion = new Ubicacion { IdUbicacion = 4 },
+            Facultad = new Facultad { IdFacultad = 4 },
+            Departamento = new Departamento { IdDepartamento = 4 }
+        },
     };
 
     public List<Auditoria> ListaAuditorias { get; } = new List<Auditoria>
     {
-        new Auditoria { IdAuditoria = 1, Titulo = "Auditoría General 2025", IdUbicacionInstitucional = 1, Fecha = new DateTime(2025, 8, 1) },
-        new Auditoria { IdAuditoria = 2, Titulo = "Revisión de Seguridad", IdUbicacionInstitucional = 2, Fecha = new DateTime(2025, 8, 2) },
-        new Auditoria { IdAuditoria = 3, Titulo = "Inspección de Equipos", IdUbicacionInstitucional = 3, Fecha = new DateTime(2025, 8, 3) },
-        new Auditoria { IdAuditoria = 4, Titulo = "Control de Limpieza", IdUbicacionInstitucional = 4, Fecha = new DateTime(2025, 8, 4) },
+        new Auditoria { IdAuditoria = 1, Titulo = "Auditoría Seguridad Informática 2025", Ubicacion = new Ubicacion { IdUbicacion = 1 }, Fecha = new DateTime(2025, 8, 1) },
+        new Auditoria { IdAuditoria = 2, Titulo = "Revisión Antivirus", Ubicacion = new Ubicacion { IdUbicacion = 2 }, Fecha = new DateTime(2025, 8, 2) },
+        new Auditoria { IdAuditoria = 3, Titulo = "Capacitación Personal", Ubicacion = new Ubicacion { IdUbicacion = 3 }, Fecha = new DateTime(2025, 8, 3) },
     };
 
     public List<Encuesta> ListaEncuestas { get; } = new List<Encuesta>
-{
-    new Encuesta { IdEncuesta = 1, IdAuditoria = 1, IdPersona = 1, FechaRealizacion = new DateTime(2025, 8, 1) },
-    new Encuesta { IdEncuesta = 2, IdAuditoria = 2, IdPersona = 2, FechaRealizacion = new DateTime(2025, 8, 2) },
-    new Encuesta { IdEncuesta = 3, IdAuditoria = 3, IdPersona = 3, FechaRealizacion = new DateTime(2025, 8, 3) },
-    new Encuesta { IdEncuesta = 4, IdAuditoria = 4, IdPersona = 4, FechaRealizacion = new DateTime(2025, 8, 4) },
-};
+    {
+        new Encuesta { IdEncuesta = 1, IdAuditoria = 1, IdPersona = 1, FechaRealizacion = new DateTime(2025, 8, 1) },
+        new Encuesta { IdEncuesta = 2, IdAuditoria = 2, IdPersona = 2, FechaRealizacion = new DateTime(2025, 8, 2) },
+        new Encuesta { IdEncuesta = 3, IdAuditoria = 3, IdPersona = 3, FechaRealizacion = new DateTime(2025, 8, 3) },
+    };
 
     public List<Respuesta> ListaRespuestas { get; } = new List<Respuesta>
-{
-    new Respuesta { IdRespuesta = 1, IdEncuesta = 1, IdItem = 1, Marcado = true, PorcentajeCumplimiento = "100%" },
-    new Respuesta { IdRespuesta = 2, IdEncuesta = 1, IdItem = 2, Marcado = false, PorcentajeCumplimiento = "50%" },
-    new Respuesta { IdRespuesta = 3, IdEncuesta = 2, IdItem = 3, Marcado = true, PorcentajeCumplimiento = "90%" },
-    new Respuesta { IdRespuesta = 4, IdEncuesta = 2, IdItem = 4, Marcado = false, PorcentajeCumplimiento = "60%" },
-};
+    {
+        new Respuesta { IdRespuesta = 1, Marcado = true, PorcentajeCumplimiento = "100%" },
+        new Respuesta { IdRespuesta = 2, Marcado = false, PorcentajeCumplimiento = "50%" },
+        new Respuesta { IdRespuesta = 3, Marcado = true, PorcentajeCumplimiento = "90%" },
+    };
 
     public List<Seguimiento> ListaSeguimientos { get; } = new List<Seguimiento>
-{
-    new Seguimiento
     {
-        IdSeguimiento = 1,
-        IdRespuesta = 1,
-        Estado = "En proceso",
-        Descripcion = "Revisión de limpieza en curso",
-        Supervisor = "Luis Gómez",
-        ResponsableTratamiento = "Carlos Ruiz",
-        ResponsableImplementacion = "Ana Pérez",
-        Evidencia = "Foto de pisos",
-        FechaInicio = new DateTime(2025, 8, 5),
-        FechaFin = new DateTime(2025, 8, 10),
-        ObservacionEstado = "Se está limpiando el área"
-    },
-    new Seguimiento
-    {
-        IdSeguimiento = 2,
-        IdRespuesta = 2,
-        Estado = "Pendiente",
-        Descripcion = "No se encontraron extintores",
-        Supervisor = "Sofía Díaz",
-        ResponsableTratamiento = "Luis Gómez",
-        ResponsableImplementacion = "Carlos Ruiz",
-        Evidencia = "Informe de inspección",
-        FechaInicio = new DateTime(2025, 8, 6),
-        FechaFin = new DateTime(2025, 8, 12),
-        ObservacionEstado = "Falta adquisición"
-    },
-    new Seguimiento
-    {
-        IdSeguimiento = 3,
-        IdRespuesta = 3,
-        Estado = "Completado",
-        Descripcion = "Equipos revisados y funcionando",
-        Supervisor = "Ana Pérez",
-        ResponsableTratamiento = "Sofía Díaz",
-        ResponsableImplementacion = "Luis Gómez",
-        Evidencia = "Informe técnico",
-        FechaInicio = new DateTime(2025, 8, 1),
-        FechaFin = new DateTime(2025, 8, 3),
-        ObservacionEstado = "Todo conforme"
-    },
-    new Seguimiento
-    {
-        IdSeguimiento = 4,
-        IdRespuesta = 4,
-        Estado = "En revisión",
-        Descripcion = "Daños estructurales en análisis",
-        Supervisor = "Carlos Ruiz",
-        ResponsableTratamiento = "Ana Pérez",
-        ResponsableImplementacion = "Sofía Díaz",
-        Evidencia = "Fotos de grietas",
-        FechaInicio = new DateTime(2025, 8, 2),
-        FechaFin = new DateTime(2025, 8, 7),
-        ObservacionEstado = "Esperando peritaje"
-    },
-};
-
+        new Seguimiento
+        {
+            IdSeguimiento = 1,
+            Item = new Item { IdItem = 1 },
+            Estado = "Completado",
+            Descripcion = "Contraseñas verificadas y aprobadas",
+            Supervisor = "Luis Gómez",
+            ResponsableTratamiento = "Carlos Ruiz",
+            ResponsableImplementacion = "Ana Pérez",
+            Evidencia = "Captura pantalla gestor de contraseñas",
+            FechaInicio = new DateTime(2025, 8, 5),
+            FechaFin = new DateTime(2025, 8, 10),
+            ObservacionEstado = "Todo conforme"
+        },
+        new Seguimiento
+        {
+            IdSeguimiento = 2,
+            Item = new Item { IdItem = 3 },
+            Estado = "Pendiente",
+            Descripcion = "Actualización antivirus programada",
+            Supervisor = "Sofía Díaz",
+            ResponsableTratamiento = "Luis Gómez",
+            ResponsableImplementacion = "Carlos Ruiz",
+            Evidencia = "Plan de actualización",
+            FechaInicio = new DateTime(2025, 8, 6),
+            FechaFin = new DateTime(2025, 8, 12),
+            ObservacionEstado = "En espera"
+        },
+    };
 }

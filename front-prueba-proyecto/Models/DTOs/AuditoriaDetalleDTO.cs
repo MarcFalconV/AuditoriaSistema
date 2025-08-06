@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Models.DTOs
 {
-    internal class AuditoriaDetalleDTO
+    public class AuditoriaDetalleDto
     {
         public int IdAuditoria { get; set; }
         public string Titulo { get; set; }

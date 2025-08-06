@@ -8,6 +8,7 @@ namespace front_prueba_proyecto
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+            builder.Services.AddHttpClient();
 
             var app = builder.Build();
 

@@ -1,26 +1,27 @@
 ﻿@page
 @model EncuestaModel
+
 @{
-    ViewData["Title"] = "Encuesta";
+    ViewData["Title"] = "Encuestas";
 }
-<div class="card p-4 shadow-sm" style="max-width: 600px; margin: auto;">
-    <form method="post">
+
+<div class="mt-4 card p-4 shadow-sm" style="max-width: 600px; margin: auto;">
+    <form id="formBusqueda">
+        <!-- Lugar -->
         <div class="mb-4">
-            <label for="Lugar" class="form-label fw-semibold">Lugar</label>
-            <input asp-for="Lugar" class="form-control" id="Lugar" placeholder="Ingrese lugar" />
-            <span asp-validation-for="Lugar" class="text-danger"></span>
+            <label for="inputLugar" class="form-label fw-semibold">Lugar</label>
+            <input type="text" class="form-control" id="inputLugar" name="lugar" placeholder="Ingrese lugar" required>
         </div>
 
+        <!-- Facultad y Departamento -->
         <div class="row mb-4">
             <div class="col-6">
-                <label for="Facultad" class="form-label fw-semibold">Facultad</label>
-                <input asp-for="Facultad" class="form-control" id="Facultad" placeholder="Ingrese facultad" />
-                <span asp-validation-for="Facultad" class="text-danger"></span>
+                <label for="inputFacultad" class="form-label fw-semibold">Facultad</label>
+                <input type="text" class="form-control" id="inputFacultad" name="facultad" placeholder="Ingrese facultad" required>
             </div>
             <div class="col-6">
-                <label for="Departamento" class="form-label fw-semibold">Departamento</label>
-                <input asp-for="Departamento" class="form-control" id="Departamento" placeholder="Ingrese departamento" />
-                <span asp-validation-for="Departamento" class="text-danger"></span>
+                <label for="inputDepartamento" class="form-label fw-semibold">Departamento</label>
+                <input type="text" class="form-control" id="inputDepartamento" name="departamento" placeholder="Ingrese departamento" required>
             </div>
         </div>
 
@@ -30,47 +31,121 @@
     </form>
 </div>
 
-@if (Model.Resultados != null && Model.Resultados.Any())
-{
-    <div class="container mt-4" style="max-width: 1000px;">
-        <h5>Resultados de la búsqueda</h5>
-        <table class="table table-striped table-bordered align-middle">
-            <thead class="table-primary">
-                <tr>
-                    <th>ID Auditoría</th>
-                    <th>Título Auditoría</th>
-                    <th>Ubicación</th>
-                    <th>Facultad</th>
-                    <th>Departamento</th>
-                    <th>Persona Encuestada</th>
-                    <th>Estado</th>
-                    <th>Fecha</th>
-                    <th>Acciones</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model.Resultados)
-                {
-                    <tr>
-                        <td>@item.IdAuditoria</td>
-                        <td>@item.Titulo</td>
-                        <td>@item.Ubicacion</td>
-                        <td>@item.Facultad</td>
-                        <td>@item.Departamento</td>
-                        <td>@item.PersonaEncuestada</td>
-                        <td>@item.Estado</td>
-                        <td>@item.Fecha.ToString("dd/MM/yyyy")</td>
-                        <td>
-                            <div class="d-flex gap-2">
-                                <button class="btn btn-outline-primary btn-sm">Detallar</button>
-                                <button class="btn btn-outline-success btn-sm">Encuestar</button>
-                            </div>
-                        </td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </div>
-}
+<!-- Aquí se desplegará la tabla --> 
 
+<div id="resultado" class="container ">
+    <h4 class="mb-4">Lista de Auditorías Detalladas</h4>
+
+    @if (Model.ResultadosAuditoriaDetalle != null && Model.ResultadosAuditoriaDetalle.Any())
+    {
+        <div class="container-fluid">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-primary">
+                    <tr>
+                        <th>ID Auditoría</th>
+                        <th>Título Auditoría</th>
+                        <th>Ubicación</th>
+                        <th>Facultad</th>
+                        <th>Departamento</th>
+                        <th>Persona Encuestada</th>
+                        <th>Estado</th>
+                        <th>Fecha</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.ResultadosAuditoriaDetalle)
+                    {
+                        <tr>
+                            <td>@item.IdAuditoria</td>
+                            <td>@item.Titulo</td>
+                            <td>@item.Ubicacion</td>
+                            <td>@item.Facultad</td>
+                            <td>@item.Departamento</td>
+                            <td>@item.PersonaEncuestada</td>
+                            <td>@item.Estado</td>
+                            <td>@item.Fecha.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                <div class="d-flex gap-2">
+                                    <button class="btn btn-outline-primary btn-sm"
+                                            type="button"
+                                            onclick="mostrarDetalle(@item.IdAuditoria)">
+                                        Detallar
+                                    </button>                                    
+                                    <button class="btn btn-outline-success btn-sm" type="button">Encuestar</button>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            No hay auditorías para mostrar.
+        </div>
+    }
+</div>
+
+<div id="resultado" class="container">
+    <h4 class="mb-4">Lista de Respuestas Detalladas</h4>
+
+    @if (Model.ResultadosRespuesta != null && Model.ResultadosRespuesta.Any())
+    {
+        <div class="container-fluid">
+            <table class="table table-striped table-bordered align-middle">
+                <thead class="table-primary">
+                    <tr>
+                        <th>ID Respuesta</th>
+                        <th>Título</th>
+                        <th>Auditoría</th>
+                        <th>Pregunta</th>
+                        <th>Respuesta</th>
+                        <th>Porcentaje</th>
+                        <th>Cant. Preguntas</th>
+                        <th>Items Evaluados</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.ResultadosRespuesta)
+                    {
+                        <tr>
+                            <td>@item.IdRespuesta</td>
+                            <td>@item.Titulo</td>
+                            <td>@item.Auditoria</td>
+                            <td>@item.Pregunta</td>
+                            <td>@item.Respuesta</td>
+                            <td>@item.Porcentaje</td>
+                            <td>@item.CantidadDePregunta</td>
+                            <td>@item.ItemsEvaluados</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info" role="alert">
+            No hay respuestas detalladas para mostrar.
+        </div>
+    }
+</div>
+
+
+
+
+
+
+<script>
+    document.getElementById('formBusqueda').addEventListener('submit', function(e) {
+      e.preventDefault(); // evita recargar la página
+      // Aquí podrías validar o enviar datos al backend
+
+      // Mostrar el div de resultados
+      document.getElementById('resultado').style.display = 'block';
+    });
+</script>
 

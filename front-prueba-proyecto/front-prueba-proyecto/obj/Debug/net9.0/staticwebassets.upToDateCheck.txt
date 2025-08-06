@@ -1,6 +1,77 @@
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\css\site.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\js\site.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\favicon.ico
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\LICENSE.md
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\LICENSE.txt
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.min.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\banner-ug.png
 wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -25,14 +96,6 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -46,14 +109,6 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-wwwroot\lib\jquery-validation\dist\additional-methods.js
-wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -61,66 +116,11 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\site.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\favicon.ico
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\js\site.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\additional-methods.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery-validation\LICENSE.md
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.min.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.min.js
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\wwwroot\css\site.css
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
