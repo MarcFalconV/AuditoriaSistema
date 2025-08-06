@@ -1,0 +1,61 @@
+﻿@page
+@model EncuestaModel
+@{
+    ViewData["Title"] = "Encuesta";
+}
+<div class="card p-4 shadow-sm" style="max-width: 600px; margin: auto;">
+    <form method="post">
+        <div class="mb-4">
+            <label for="Lugar" class="form-label fw-semibold">Lugar</label>
+            <input asp-for="Lugar" class="form-control" id="Lugar" placeholder="Ingrese lugar" />
+            <span asp-validation-for="Lugar" class="text-danger"></span>
+        </div>
+
+        <div class="row mb-4">
+            <div class="col-6">
+                <label for="Facultad" class="form-label fw-semibold">Facultad</label>
+                <input asp-for="Facultad" class="form-control" id="Facultad" placeholder="Ingrese facultad" />
+                <span asp-validation-for="Facultad" class="text-danger"></span>
+            </div>
+            <div class="col-6">
+                <label for="Departamento" class="form-label fw-semibold">Departamento</label>
+                <input asp-for="Departamento" class="form-control" id="Departamento" placeholder="Ingrese departamento" />
+                <span asp-validation-for="Departamento" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn btn-primary px-4">Buscar</button>
+        </div>
+    </form>
+</div>
+
+
+@if (Model.Resultados != null && Model.Resultados.Any())
+{
+    <div class="container mt-4" style="max-width: 600px;">
+        <h5>Resultados de la encuesta:</h5>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Lugar</th>
+                    <th>Facultad</th>
+                    <th>Departamento</th>
+                    <th>Encuesta</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var r in Model.Resultados)
+                {
+                    <tr>
+                        <td>@r.Lugar</td>
+                        <td>@r.Facultad</td>
+                        <td>@r.Departamento</td>
+                        <td>@r.ValorEncuesta</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+

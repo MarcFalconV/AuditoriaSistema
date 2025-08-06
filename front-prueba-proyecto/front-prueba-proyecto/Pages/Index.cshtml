@@ -1,0 +1,13 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="container col-9 pt-4 text-center">
+
+    <form method="get" asp-page="/Encuesta" class="mt-4">
+        <button type="submit" class="btn btn-primary btn-lg px-4">Comenzar encuesta</button>
+    </form>
+</div>

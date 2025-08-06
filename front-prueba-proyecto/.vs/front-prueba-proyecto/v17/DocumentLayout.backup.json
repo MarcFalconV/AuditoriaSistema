@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\encuesta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\encuesta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\encuesta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\encuesta.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\models\\encuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\models\\encuestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\gracias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\gracias.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\gracias.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|c:\\users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:37:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Encuesta.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Encuesta.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Encuesta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T01:47:06.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Error.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:33:11.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encuesta.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:47:31.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:33:28.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:14:30.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "front-prueba-proyecto\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-06T02:07:17.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Encuestas.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\models\\Encuestas.cs",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\models\\Encuestas.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\models\\Encuestas.cs",
+              "RelativeToolTip": "front-prueba-proyecto\\models\\Encuestas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:41:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:33:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gracias.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:23:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T01:48:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:48:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gracias.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Gracias.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Gracias.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T01:47:59.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "front-prueba-proyecto\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T02:09:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "front-prueba-proyecto",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "RelativeToolTip": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T01:47:42.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
