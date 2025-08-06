@@ -33,3 +33,40 @@ C:\Users\Falconi\Documents\Visual Studio Code\C\auditoriaBackend\auditoriaBacken
 C:\Users\Falconi\Documents\Visual Studio Code\C\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.pdb
 C:\Users\Falconi\Documents\Visual Studio Code\C\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.genruntimeconfig.cache
 C:\Users\Falconi\Documents\Visual Studio Code\C\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\ref\auditoriaBackend.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\appsettings.Development.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\appsettings.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.staticwebassets.endpoints.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.exe
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.deps.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.runtimeconfig.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\auditoriaBackend.pdb
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.csproj.AssemblyReference.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.AssemblyInfoInputs.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.AssemblyInfo.cs
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.csproj.CoreCompileInputs.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.sourcelink.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\scopedcss\bundle\auditoriaBackend.styles.css
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\staticwebassets.build.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\staticwebassets.development.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditori.FAB4CC9C.Up2Date
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\refint\auditoriaBackend.dll
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.pdb
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\auditoriaBackend.genruntimeconfig.cache
+E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\auditoriaBackend\auditoriaBackend\obj\Debug\net9.0\ref\auditoriaBackend.dll

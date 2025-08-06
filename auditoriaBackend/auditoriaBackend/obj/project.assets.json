@@ -478,24 +478,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Falconi\\.nuget\\packages\\": {}
+    "C:\\Users\\josem\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+      "projectUniqueName": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
       "projectName": "auditoriaBackend",
-      "projectPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
-      "packagesPath": "C:\\Users\\Falconi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\obj\\",
+      "projectPath": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+      "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
+      "outputPath": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Falconi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -548,7 +555,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

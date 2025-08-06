@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36401.2 d17.14
+VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "front-prueba-proyecto", "front-prueba-proyecto\front-prueba-proyecto.csproj", "{C6C63509-C57D-450E-BAD3-F79BA0101DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auditoriaBackend", "..\auditoriaBackend\auditoriaBackend\auditoriaBackend.csproj", "{CC8C916A-2F7F-B499-5A29-F4F28CB64756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C6C63509-C57D-450E-BAD3-F79BA0101DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6C63509-C57D-450E-BAD3-F79BA0101DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6C63509-C57D-450E-BAD3-F79BA0101DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8C916A-2F7F-B499-5A29-F4F28CB64756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8C916A-2F7F-B499-5A29-F4F28CB64756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8C916A-2F7F-B499-5A29-F4F28CB64756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8C916A-2F7F-B499-5A29-F4F28CB64756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

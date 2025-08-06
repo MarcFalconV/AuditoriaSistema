@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+      "projectUniqueName": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
       "projectName": "front-prueba-proyecto",
-      "projectPath": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+      "projectPath": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\source\\repos\\front-prueba-proyecto\\front-prueba-proyecto\\obj\\",
+      "outputPath": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

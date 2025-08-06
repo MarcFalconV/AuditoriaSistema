@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = front_prueba_proyecto
 build_property.RootNamespace = front_prueba_proyecto
-build_property.ProjectDir = C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto\
+build_property.ProjectDir = E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\josem\source\repos\front-prueba-proyecto\front-prueba-proyecto
+build_property.MSBuildProjectDirectory = E:\Programacion\Proyectos\.Net Projects\Auditoria\AuditoriaSistema\front-prueba-proyecto\front-prueba-proyecto
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Encuesta.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Encuesta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jdWVzdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Error.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Gracias.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Gracias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhY2lhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Index.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Privacy.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/_ViewImports.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/_ViewStart.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/josem/source/repos/front-prueba-proyecto/front-prueba-proyecto/Pages/Shared/_Layout.cshtml]
+[E:/Programacion/Proyectos/.Net Projects/Auditoria/AuditoriaSistema/front-prueba-proyecto/front-prueba-proyecto/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zcr5ljphm6
