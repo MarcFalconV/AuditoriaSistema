@@ -5,3 +5,6 @@ obj/
 *.user
 *.suo
 "@ | Out-File -Encoding UTF8 .gitignore
+# .gitignore
+**/obj/
+**/bin/
