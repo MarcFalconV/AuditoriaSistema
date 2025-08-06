@@ -1,4 +1,11 @@
+
+using Microsoft.EntityFrameworkCore;
+using auditoriaBackend.Models;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<EncuestaDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("EncuestaDbContext")));
 
 builder.Services.AddControllers(); // <-- esto habilita los [ApiController]
 builder.Services.AddEndpointsApiExplorer();

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace auditoriaBackend.Models;
 
@@ -27,6 +28,8 @@ public partial class UbicacionInstitucional
 
     [ForeignKey("IdFacultad")]
     [InverseProperty("UbicacionInstitucionals")]
+    [JsonIgnore]
+
     public virtual Facultad IdFacultadNavigation { get; set; } = null!;
 
     [ForeignKey("IdUbicacion")]
