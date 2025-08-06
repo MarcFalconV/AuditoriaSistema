@@ -19,7 +19,7 @@ namespace auditoriaBackend.Controller
         {
             var resultado = _repo.ListaAuditorias.SelectMany(auditoria =>
             {
-                // Obtener la Ubicación Institucional    a partir de la auditoría
+                // Obtener la Ubicación Institucional a partir de la auditoría
                 var ubicacionInstitucional = _repo.ListaUbicacionInstitucional
                     .FirstOrDefault(ui => ui.Ubicacion.IdUbicacion == auditoria.Ubicacion.IdUbicacion);
 
