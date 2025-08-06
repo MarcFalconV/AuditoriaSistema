@@ -12,7 +12,7 @@ namespace auditoriaBackend.Controller
         private readonly RepositorioDatos _repo = RepositorioDatos.Instancia;
 
 
-       
+
 
         [HttpGet("auditoriaDetallado")]
         public IActionResult GetAuditoriasDetalladas()
