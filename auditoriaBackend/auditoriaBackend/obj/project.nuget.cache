@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F3qHKc3pI74=",
+  "dgSpecHash": "9yTrIRwmUiU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+  "projectFilePath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Falconi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
     "C:\\Users\\Falconi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",

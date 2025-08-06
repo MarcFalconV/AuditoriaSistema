@@ -483,11 +483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+      "projectUniqueName": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
       "projectName": "auditoriaBackend",
-      "projectPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+      "projectPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
       "packagesPath": "C:\\Users\\Falconi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\auditoriaBackend\\auditoriaBackend\\obj\\",
+      "outputPath": "C:\\Users\\Falconi\\Documents\\Visual Studio Code\\C\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Falconi\\AppData\\Roaming\\NuGet\\NuGet.Config"
