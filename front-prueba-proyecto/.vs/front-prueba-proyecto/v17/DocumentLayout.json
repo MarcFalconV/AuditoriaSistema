@@ -3,6 +3,16 @@
   "WorkspaceRootPath": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|e:\\programacion\\proyectos\\.net projects\\auditoria\\auditoriasistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8C916A-2F7F-B499-5A29-F4F28CB64756}|..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj|e:\\programacion\\proyectos\\.net projects\\auditoria\\auditoriasistema\\auditoriabackend\\auditoriabackend\\auditoriabackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8C916A-2F7F-B499-5A29-F4F28CB64756}|..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj|e:\\programacion\\proyectos\\.net projects\\auditoria\\auditoriasistema\\auditoriabackend\\auditoriabackend\\auditoriabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}|Models\\Models.csproj|e:\\programacion\\proyectos\\.net projects\\auditoria\\auditoriasistema\\front-prueba-proyecto\\models\\dtos\\auditoriadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5043DD8-FDEF-4EFD-A7E3-ED2553E5370D}|Models\\Models.csproj|solutionrelative:models\\dtos\\auditoriadetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -159,10 +169,6 @@
       "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|e:\\programacion\\proyectos\\.net projects\\auditoria\\auditoriasistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C6C63509-C57D-450E-BAD3-F79BA0101DE0}|front-prueba-proyecto\\front-prueba-proyecto.csproj|solutionrelative:front-prueba-proyecto\\front-prueba-proyecto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -189,19 +195,32 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EncuestaDbContext.cs",
-              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
-              "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
-              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
-              "RelativeToolTip": "..\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAswMwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T12:45:03.207Z"
+              "DocumentIndex": 2,
+              "Title": "auditoriaBackend",
+              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "RelativeToolTip": "..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T16:01:10.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "auditoriaBackend",
+              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "RelativeToolTip": "..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T16:01:24.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuditoriaDetalleDtoController.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Controller\\AuditoriaDetalleDtoController.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Controller\\AuditoriaDetalleDtoController.cs",
@@ -213,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Auditoria.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Auditoria.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Auditoria.cs",
@@ -225,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Respuesta.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Respuesta.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Respuesta.cs",
@@ -237,7 +256,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "front-prueba-proyecto.csproj",
+              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "RelativeDocumentMoniker": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "RelativeToolTip": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T01:47:42.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncuestaDbContext.cs",
+              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
+              "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
+              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
+              "RelativeToolTip": "..\\auditoriaBackend\\auditoriaBackend\\Models\\EncuestaDbContext.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAswMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T12:45:03.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RespuestaDetalleDto.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\DTOs\\RespuestaDetalleDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\RespuestaDetalleDto.cs",
@@ -249,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuditoriaDetalleDto.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\DTOs\\AuditoriaDetalleDto.cs",
               "RelativeDocumentMoniker": "Models\\DTOs\\AuditoriaDetalleDto.cs",
@@ -262,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Encuesta.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Encuesta.cshtml",
@@ -274,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Encuesta.cshtml.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Encuesta.cshtml.cs",
@@ -286,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Ubicacion.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Ubicacion.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Ubicacion.cs",
@@ -298,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\_ViewImports.cshtml",
@@ -310,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "RepositorioDatos.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\RepositorioDatos.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\RepositorioDatos.cs",
@@ -322,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BaseRepositorio.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\BaseRepositorio.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\BaseRepositorio.cs",
@@ -334,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IBaseRepositorio.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\IBaseRepositorio.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Controller\\RepositorioInternal\\IBaseRepositorio.cs",
@@ -346,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Item.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Item.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Item.cs",
@@ -358,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Pregunta.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Pregunta.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Pregunta.cs",
@@ -370,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UbicacionInstitucional.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\UbicacionInstitucional.cs",
               "RelativeDocumentMoniker": "Models\\Model\\UbicacionInstitucional.cs",
@@ -382,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Seguimiento.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Seguimiento.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Seguimiento.cs",
@@ -394,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Seccion.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Seccion.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Seccion.cs",
@@ -406,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Rol.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Rol.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Rol.cs",
@@ -418,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Reporte.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Reporte.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Reporte.cs",
@@ -430,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Persona.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Persona.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Persona.cs",
@@ -442,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Facultad.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Facultad.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Facultad.cs",
@@ -454,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Encuesta.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Encuesta.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Encuesta.cs",
@@ -466,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Departamento.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Model\\Departamento.cs",
               "RelativeDocumentMoniker": "Models\\Model\\Departamento.cs",
@@ -478,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Error.cshtml.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Error.cshtml.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Error.cshtml.cs",
@@ -490,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Program.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Program.cs",
@@ -502,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Error.cshtml",
@@ -514,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Models.csproj",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\Models\\Models.csproj",
               "RelativeDocumentMoniker": "Models\\Models.csproj",
@@ -522,11 +566,12 @@
               "RelativeToolTip": "Models\\Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-06T04:13:04.79Z"
+              "WhenOpened": "2025-08-06T04:13:04.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Auditoria.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Auditoria.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Model\\Auditoria.cs",
@@ -538,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Index.cshtml",
@@ -550,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Item.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Item.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Model\\Item.cs",
@@ -562,7 +607,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Encuesta.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Encuesta.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Model\\Encuesta.cs",
@@ -574,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Facultad.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Facultad.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Model\\Facultad.cs",
@@ -586,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\_ViewStart.cshtml",
@@ -598,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Program.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Program.cs",
@@ -610,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Ubicacion.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\Model\\Ubicacion.cs",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\Model\\Ubicacion.cs",
@@ -622,7 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "auditoriaBackend.http",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.http",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\auditoriaBackend.http",
@@ -634,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\auditoriaBackend\\auditoriaBackend\\appsettings.json",
               "RelativeDocumentMoniker": "..\\auditoriaBackend\\auditoriaBackend\\appsettings.json",
@@ -646,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Shared\\_Layout.cshtml",
@@ -658,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "site.css",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\wwwroot\\css\\site.css",
@@ -670,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Encuestas.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\models\\Encuestas.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\models\\Encuestas.cs",
@@ -682,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -694,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Gracias.cshtml.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Gracias.cshtml.cs",
@@ -706,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Index.cshtml.cs",
@@ -718,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Gracias.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Gracias.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Gracias.cshtml",
@@ -730,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "front-prueba-proyecto\\Pages\\Privacy.cshtml",
@@ -739,18 +784,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-06T02:09:03.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "front-prueba-proyecto.csproj",
-              "DocumentMoniker": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
-              "RelativeDocumentMoniker": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
-              "ToolTip": "E:\\Programacion\\Proyectos\\.Net Projects\\Auditoria\\AuditoriaSistema\\front-prueba-proyecto\\front-prueba-proyecto\\front-prueba-proyecto.csproj",
-              "RelativeToolTip": "front-prueba-proyecto\\front-prueba-proyecto.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-06T01:47:42.877Z"
             }
           ]
         }
